@@ -1,1 +1,1 @@
-Curso de Git com Isidro Massetto da Gama Academy.
+Curso de Git com Isidro Massetto do programa de treinamento Hiring Coders.
